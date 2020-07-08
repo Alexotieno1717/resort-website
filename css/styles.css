@@ -39,3 +39,17 @@ nav ul li a{
     background-size: cover;
     background-position: bottom;
 }
+
+.about-title h2{
+    color: cyan;
+    text-align: center;
+}
+
+.about-content{
+    display: flex;
+    justify-content: space-between;
+}
+.about-p{
+    padding: 2em;
+    text-align: center;
+}
