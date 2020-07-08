@@ -1,9 +1,9 @@
-# {Resort Website}
-#### {Resort Website is an application that provides ang give people opportuinity to travel for vacation abroad and within the country}, {08th July 2020}
-#### By **{List of contributors}**
+# Resort Website
+#### Resort Website is an application that provides ang give people opportuinity to travel for vacation abroad and within the country, 08th July 2020
+#### **List of contributors**
 * Design and created by Alex Otieno
 ## Description
-{Resort Website is an application that provides ang give people opportuinity to travel for vacation abroad and within the country. the website allows new members to login in and access the features. we also have Accomodation that we ofer to our clients. }
+Resort Website is an application that provides ang give people opportuinity to travel for vacation abroad and within the country. the website allows new members to login in and access the features. we also have Accomodation that we ofer to our clients. 
 ## Setup/Installation Requirements
 * Clone this repo to your desktop and run npm install
 
@@ -30,7 +30,7 @@ You can support our compamy or contributed your can send us an email and our tea
 ### License
 This project is licensed under the terms of the MIT license.
 
-Copyright (c) {2020} **{List of contributors or company name}**
+Copyright (c) 2020
 
 
      
