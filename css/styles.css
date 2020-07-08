@@ -31,3 +31,13 @@ nav ul li a{
     color: orange;
     font-style: italic;
 }
+
+/* ========================
+BANNER
+===================================*/
+#banner{
+    background-image: url(../images/resort-1.jpg);
+    width: 100%;
+    height: 70vh;
+    background-size: cover;
+}
