@@ -53,3 +53,18 @@ nav ul li a{
     padding: 2em;
     text-align: center;
 }
+
+.accomodation-subtitle p{
+    text-align: center;
+    width: 50%;
+    margin: 1em auto;
+}
+
+.accomodation-images{
+    display: flex;
+    justify-content: space-around;
+}
+
+.accodation-img-1 h3{
+    text-align: center;
+}
