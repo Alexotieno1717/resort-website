@@ -56,3 +56,36 @@ BANNER
     padding: 2em;
     text-align: center;
 }
+
+.accomodation-title{
+    padding-top: 50px;
+    text-align: center;
+    color: orange;
+}
+
+.accomodation-subtitle p{
+    text-align: center;
+    width: 50%;
+    margin: 1em auto;
+}
+
+.accomodation-images{
+    display: flex;
+    justify-content: space-around;
+}
+
+.accodation-img-1 h3{
+    text-align: center;
+}
+
+.activity-cont-1{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 4em auto;
+}
+
+.activity-cont-p{
+    padding: 2em;
+    text-align: center;
+}
