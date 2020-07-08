@@ -41,3 +41,18 @@ BANNER
     height: 70vh;
     background-size: cover;
 }
+
+.about-title h2{
+    color: orange;
+    text-align: center;
+}
+
+.img-about{
+    float: left;
+    margin: 10px;
+}
+
+.about-p{
+    padding: 2em;
+    text-align: center;
+}
