@@ -24,5 +24,10 @@ nav ul li a{
 .logo{
     float: left;
     color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.logo span{
+    color: orange;
+    font-style: italic;
+}
