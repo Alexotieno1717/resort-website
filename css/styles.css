@@ -68,3 +68,15 @@ nav ul li a{
 .accodation-img-1 h3{
     text-align: center;
 }
+
+.activity-cont-1{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 4em auto;
+}
+
+.activity-cont-p{
+    padding: 2em;
+    text-align: center;
+} 
