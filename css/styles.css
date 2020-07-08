@@ -17,7 +17,7 @@ nav ul li{
 
 nav ul li a{
     padding-left: 10px;
-    color: orange;
+    color: cyan;
     text-decoration: none;
 }
 
@@ -26,3 +26,8 @@ nav ul li a{
     color: #fff;
 }
 
+.logo span{
+    color: cyan;
+    font-style: italic;
+    font-family: monospace;
+}
